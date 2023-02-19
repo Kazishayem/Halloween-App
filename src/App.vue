@@ -1,6 +1,7 @@
 <script setup>
 
 import Navbar from './components/Navbar.vue';
+import Home from './components/Home.vue';
 
 
 
@@ -10,6 +11,7 @@ import Navbar from './components/Navbar.vue';
   <div class="container overflow-x-hidden">
 
 <Navbar/>
+<Home/>
 
   </div>
 </template>
