@@ -42,6 +42,7 @@ const modules = [Pagination];
 </script>
 
 
+
 <style scoped>
 
 .swiper-pagination-bullet{
