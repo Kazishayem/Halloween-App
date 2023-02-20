@@ -127,8 +127,8 @@
 
             <button
                 class="hidden md:block px-8 py-3 rounded-full text-white font-medium tracking-wider uppercase bg-secondary w-full lg:w-auto">Donate</button>
-
         </div>
+
 
     </div>
 

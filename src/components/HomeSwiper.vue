@@ -42,16 +42,16 @@ const modules = [Pagination];
 </script>
 
 
-<style>
+<style scoped>
 
 .swiper-pagination-bullet{
 
-    @apply w-3 h-3 bg-white opacity-100
+    @apply w-3 h-3 bg-white opacity-100;
 
 }
 
 .swiper-pagination-bullet.swiper-pagination-bullet-active{
-    @apply rounded-xl w-6 bg-secondary
+    @apply rounded-xl w-6 bg-secondary;
 }
 
 
