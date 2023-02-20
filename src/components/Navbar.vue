@@ -93,7 +93,7 @@
                 </button>
 
                 <button @click="showMenu = !showMenu" class="relative z-30 text-white -mt-2 p-2">
-                <svg fill="#000000" height="64px" width="64px" version="1.1" id="Layer_1"
+                <svg fill="#fff" height="64px" width="64px" version="1.1" id="Layer_1"
                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                     viewBox="-150 -150 450.00 450.00" xml:space="preserve" stroke="#000000" stroke-width="0.0015"
                     transform="matrix(-1, 0, 0, 1, 0, 0)rotate(0)">
